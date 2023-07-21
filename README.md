@@ -17,6 +17,7 @@
 ### 1. Prerequisites:
 + Install [_Python_](https://www.python.org/) for Windows OS platform
 + Install [_Chocolatey_](https://chocolatey.org/install) package manager for Windows OS platform - it's necessary to install [_make_](https://community.chocolatey.org/packages/make) command
++ Ensure that you have both Firefox and Chrome browsers installed
 
 ### 2. Install required libraries
 In Windows OS cmd, in root directory fo the project, execute:
